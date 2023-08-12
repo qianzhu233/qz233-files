@@ -2,9 +2,9 @@
 
 ## What's this?
 
-This is where I put my config file.
+This is where I put the miscellaneous files.
 
-這是我放置配置檔的地方。
+這是我放置雜七雜八的檔案的地方。
 
 ## oh-my-posh-theme
 
@@ -29,3 +29,19 @@ Subtitle styles I use often.
 我常用的字幕樣式。
 
 `qz233-sub.ass`
+
+## "kanji" folder
+
+### info
+
+The standard of kanji.
+
+I'm not their author, I collected them for convenience.
+
+Not guaranteed to be up to date.
+
+漢字的標準。
+
+我不是它們的作者，為方便起見，我将之收集。
+
+不保證最新。
